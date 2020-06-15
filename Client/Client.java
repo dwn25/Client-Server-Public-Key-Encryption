@@ -1,5 +1,4 @@
 //David William Nartey
-//Assignment 4
 //Client.java
 import java.io.*;
 import java.math.BigInteger;

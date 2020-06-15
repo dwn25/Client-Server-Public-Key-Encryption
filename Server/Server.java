@@ -1,5 +1,4 @@
 //David William Nartey
-//Assignment 4
 //Server.java
 //Reference: https://www.geeksforgeeks.org/generate-random-string-of-given-size-in-java/
 import java.io.*;
